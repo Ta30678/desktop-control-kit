@@ -1,0 +1,14 @@
+{
+  "name": "desktop-control-kit",
+  "description": "Personal marketplace: desktop control for Claude Code on Windows (agent-desktop + Orca)",
+  "owner": {
+    "name": "qazxs"
+  },
+  "plugins": [
+    {
+      "name": "desktop-control",
+      "description": "Drive Windows desktop apps through the accessibility tree: agent-desktop first, Orca as fallback. Includes a setup skill that installs and checks both tools.",
+      "source": "./plugins/desktop-control"
+    }
+  ]
+}

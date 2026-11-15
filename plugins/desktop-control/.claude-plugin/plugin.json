@@ -1,0 +1,8 @@
+{
+  "name": "desktop-control",
+  "version": "1.0.0",
+  "description": "Drive Windows desktop apps through the accessibility tree: agent-desktop first, Orca as fallback. Includes a setup skill that installs and checks both tools.",
+  "author": {
+    "name": "qazxs"
+  }
+}
